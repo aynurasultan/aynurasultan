@@ -1,11 +1,11 @@
 ##Hi👋, I'm Aynura Sultanli Arslan!
 
 🚀 Frontend Developer
-<br>
+<br><br>
 💻 HTML, CSS, JavaScript, React
-<br>
+<br><br>
 🎨 Modern and user-friendly designs
-<br>
+<br><br>
 🌱 Always learning and exploring new tech
-<br>
+<br><br>
 📫 How can you reach me sultanliaynure@gmail.com
