@@ -1,4 +1,4 @@
-##Hi👋, I'm Aynura Sultanli Arslan!
+## Hi👋, I'm Aynura Sultanlı Arslan!
 
 🚀 Frontend Developer
 <br><br>
