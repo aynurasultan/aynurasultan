@@ -13,7 +13,6 @@ I think I’m funny, but my code always keeps things serious!
 <br><br>
 📫 How can you reach me sultanliaynure@gmail.com
 
-
 <br><br>
 <h3 align="center">A passionate frontend developer from India</h3>
 
